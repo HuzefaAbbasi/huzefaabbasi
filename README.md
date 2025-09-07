@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React-Native<br>🎯 Goals: Establish a tech company</p>
+<p align="left">✨ Creating bugs since 2021<br>🎯 Goals: Establish a tech company</p>
 
 ###
 
