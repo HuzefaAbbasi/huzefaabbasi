@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Muhammad Huzefa Abbasi and I'm a final-year Software Engineering student, I like making projects especially mobile applications</p>
+<p align="left">My name is Muhammad Huzefa Abbasi and I'm a Software Engineer, I like making full stack web and mobile applications</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>🎯 Goals: Establish a tech company</p>
+<p align="left">✨ Creating bugs since 2021</p>
 
 ###
 
